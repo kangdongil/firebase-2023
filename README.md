@@ -12,4 +12,7 @@
 # Check and CleanUp Vite Project
 
 - `npm run dev`
--
+- remove css files and `src/assets/` folder
+- `App.tsx`: Remove everything except basic function and fragment
+- `main.tsx`: Remove import from external file
+- `index.html`: Modify <title> and `helment` from <head>
