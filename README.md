@@ -13,6 +13,11 @@
 
 - `npm run dev`
 - remove css files and `src/assets/` folder
-- `App.tsx`: Remove everything except basic function and fragment
+- `App.tsx`: Remove everything except function `App` and fragment(`<></>`)
 - `main.tsx`: Remove import from external file
 - `index.html`: Modify <title> and `helment` from <head>
+
+# Install React Development Packages
+
+- `npm i react-router-dom@6.14.2 styled-reset styled-components@6.0.7`
+- `npm i @types/styled-components -D`
